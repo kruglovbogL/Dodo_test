@@ -17,3 +17,4 @@ python main.py --video data/video1.mp4 --output results/output.mp4
 [![🔢](img1.png)](img1.png)
 ## После процесса появляются файлы:
 [![](img_file.png)](img_file.png)
+**Примеры проблемных кадров находятся в папке <h1>problem_img</h1>**
