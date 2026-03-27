@@ -11,6 +11,7 @@
 ```bash
 pip install -r requirements.txt
 python main.py --video data/video1.mp4 --output results/output.mp4
+```
 
 [![🟰](img2.png)](img2.png)
 <h2>1. После выделения рамки на изображении нажмите ENTER</h2>
