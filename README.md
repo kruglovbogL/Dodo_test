@@ -69,3 +69,5 @@ python main.py --video data/video1.mp4 --output results/output.mp4
 ## После процесса появляются файлы:
 [![](img_file.png)](img_file.png)
 ## Примеры проблемных кадров находятся в папке <h3>problem_img</h3>
+# Почему это важно:
+`Оптимизация штата персонала без опросов и Exel`
