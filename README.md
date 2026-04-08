@@ -56,7 +56,7 @@
 pip install -r requirements.txt
 python main.py --video data/video1.mp4 --output results/output.mp4
 ```
-> [!IMPORTANT]
+> [!ВАЖНО]
 > Можно просто запустить `start.bat` если:
 > - видео для обработки находиться в `data/`
 >  - называется `vid_1.mp4`
