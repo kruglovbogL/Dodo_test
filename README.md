@@ -57,8 +57,9 @@
 Положите видео в `data/video1.mp4`, установите зависимости и запустите скрипт:
 
 ```bash
-pip install -r requirements.txt
-python main.py --video data/video1.mp4 --output results/output.mp4
+git clone https://github.com/kruglovbogL/VisitorFlow_Analyzer_v1
+cd VisitorFlow_Analyzer_v1
+start.bat
 ```
 > [!ВАЖНО]
 > Можно просто запустить `start.bat` если:
